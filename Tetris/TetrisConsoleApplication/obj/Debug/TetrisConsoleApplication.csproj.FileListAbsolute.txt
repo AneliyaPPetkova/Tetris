@@ -1,0 +1,1 @@
+D:\GitHub\Tetris\Tetris\TetrisConsoleApplication\bin\Debug\TetrisConsoleApplication.exe.config
