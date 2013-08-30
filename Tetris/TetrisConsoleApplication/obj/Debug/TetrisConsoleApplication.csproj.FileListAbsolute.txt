@@ -1,1 +1,12 @@
 D:\GitHub\Tetris\Tetris\TetrisConsoleApplication\bin\Debug\TetrisConsoleApplication.exe.config
+D:\Work\Tetris\Tetris\TetrisConsoleApplication\bin\Debug\TetrisConsoleApplication.exe.config
+D:\Work\Tetris\Tetris\TetrisConsoleApplication\obj\Debug\TetrisConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Work\Tetris\Tetris\TetrisConsoleApplication\bin\Debug\TetrisConsoleApplication.exe
+D:\Work\Tetris\Tetris\TetrisConsoleApplication\bin\Debug\TetrisConsoleApplication.pdb
+D:\Work\Tetris\Tetris\TetrisConsoleApplication\obj\Debug\TetrisConsoleApplication.exe
+D:\Work\Tetris\Tetris\TetrisConsoleApplication\obj\Debug\TetrisConsoleApplication.pdb
+D:\GitHub\Tetris\Tetris\TetrisConsoleApplication\obj\Debug\TetrisConsoleApplication.exe
+D:\GitHub\Tetris\Tetris\TetrisConsoleApplication\obj\Debug\TetrisConsoleApplication.pdb
+D:\GitHub\Tetris\Tetris\TetrisConsoleApplication\obj\Debug\TetrisConsoleApplication.csprojResolveAssemblyReference.cache
+D:\GitHub\Tetris\Tetris\TetrisConsoleApplication\bin\Debug\TetrisConsoleApplication.exe
+D:\GitHub\Tetris\Tetris\TetrisConsoleApplication\bin\Debug\TetrisConsoleApplication.pdb
