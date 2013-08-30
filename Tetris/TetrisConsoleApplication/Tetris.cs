@@ -28,6 +28,8 @@ namespace TetrisConsoleApplication
                 //Console.Beep(100, 100);
                 Console.WriteLine();
             }
+
+            Console.WriteLine((char)219);
         }
     }
 }

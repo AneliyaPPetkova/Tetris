@@ -47,6 +47,7 @@
     <Compile Include="GameObjects\Block.cs" />
     <Compile Include="GameObjects\FieldBorders.cs" />
     <Compile Include="GameObjects\GameObject.cs" />
+    <Compile Include="Interfaces\ICollapsable.cs" />
     <Compile Include="Struct\Position.cs" />
     <Compile Include="Tetris.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -57,7 +58,6 @@
   <ItemGroup>
     <Folder Include="Enumerations\" />
     <Folder Include="Exceptions\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="SimpleFactory\" />
     <Folder Include="Visualizer\" />
   </ItemGroup>
