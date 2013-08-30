@@ -41,12 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Engine.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Controller\Joypad.cs" />
+    <Compile Include="Controller\Keyboard.cs" />
+    <Compile Include="Engine\Engine.cs" />
+    <Compile Include="Enumerations\OrientationType.cs" />
+    <Compile Include="GameObjects\Block.cs" />
+    <Compile Include="GameObjects\FieldBorders.cs" />
+    <Compile Include="GameObjects\GameObject.cs" />
+    <Compile Include="GameObjects\PieceI.cs" />
+    <Compile Include="Interfaces\IMovable.cs" />
+    <Compile Include="Struct\Position.cs" />
+    <Compile Include="Tetris.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exceptions\" />
+    <Folder Include="SimpleFactory\" />
+    <Folder Include="Visualizer\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
