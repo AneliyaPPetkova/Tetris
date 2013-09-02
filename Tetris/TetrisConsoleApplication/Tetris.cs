@@ -31,6 +31,7 @@ namespace TetrisConsoleApplication
             }
 
             Console.WriteLine((char)219);
+            //Test
         }
     }
 }
