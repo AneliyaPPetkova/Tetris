@@ -48,8 +48,12 @@
     <Compile Include="GameObjects\Block.cs" />
     <Compile Include="GameObjects\FieldBorders.cs" />
     <Compile Include="GameObjects\GameObject.cs" />
+<<<<<<< HEAD
     <Compile Include="GameObjects\PieceI.cs" />
     <Compile Include="Interfaces\IMovable.cs" />
+=======
+    <Compile Include="Interfaces\ICollapsable.cs" />
+>>>>>>> b209123750ed26564019a1ed01a828d1c974c7b0
     <Compile Include="Struct\Position.cs" />
     <Compile Include="Tetris.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
